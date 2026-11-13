@@ -56,7 +56,3 @@ Based on *The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers* by B
   url           = {https://arxiv.org/abs/2609.25696},
 }
 ```
-
-## License
-
-Apache License 2.0, matching the original project.
