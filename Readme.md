@@ -6,6 +6,26 @@ A redesign of the [Cartesian Hand](https://github.com/generalroboticslab/Cartesi
 
 The original Cartesian Hand is a 7-DoF, all-prismatic (linear-joint) end-effector that uses rack-and-pinion transmissions driven by Feetech-3915 servos. This version redesigns the hand around the much cheaper and widely available **STS3215** servo, reducing the cost of assembly while remaining equally functional.
 
+## Visuals
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>3 Images Layout</title>
+</head>
+<body>
+
+  <div>
+    <img src="assets\tip_arm_rack.webp">
+    <img src="assets\tip_rack.webp">
+  </div>
+
+  <img src="assets\image.webp">
+
+</body>
+</html>
+
+
 ## Cost comparison
 
 | | Original (General Robotics Lab) | This redesign (STS3215) |
